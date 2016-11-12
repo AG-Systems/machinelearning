@@ -1,3 +1,4 @@
 knn 
 
-bad against with many points and with outliners
+Pros: Simple, and flexible  
+Cons: Bad against with many points, speed, and with outliners
