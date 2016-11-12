@@ -4,6 +4,6 @@ Libraries to learn: tensorflow & scikit learn
 
 List of algorithms I know:
   
-  Linear Regression
+    Linear Regression
   
-  K Nearest Neighbors
+    K Nearest Neighbors
