@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 from collections import Counter
 style.use('fivethirtyeight')
-plot1 = [1,3]
-plot2 = [2,5]
 
 
 
