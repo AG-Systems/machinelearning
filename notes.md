@@ -3,6 +3,13 @@
 Pros: Simple, multi thread, and flexible(works on linear & non linear data)  
 Cons: Bad against with many points, speed, and with outliners ( Missing data is just plain awful as well)
 
+**svm**
+
+Pros: Accuracy, uses subset of training points
+
+Cons: Speed
+
+
 **Accuracy vs Confidence**
 
 Accuracy = Did we get the classfication right?
