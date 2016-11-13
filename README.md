@@ -8,4 +8,18 @@ List of algorithms I know:
   
     K Nearest Neighbors
 
-    Support Vector Machines (I want to get better with it)
+    Support Vector Machines 
+    
+List of algorithms I plan to know:
+      
+    Naive Bayes
+    
+    Decision Trees
+    
+    Neural Networks
+    
+    K-Means
+    
+    Markov Chain
+    
+    Random Forests
