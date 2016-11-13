@@ -1,10 +1,23 @@
-#Import Library
-from sklearn import svm
-#Assumed you have, X (predictor) and Y (target) for training data set and x_test(predictor) of test_dataset
-# Create SVM classification object 
-model = svm.svc(kernel='linear', c=1, gamma=1) 
-# there is various option associated with it, like changing kernel, gamma and C value. Will discuss more # about it in next section.Train the model using the training sets and check score
-model.fit(X, y)
-model.score(X, y)
-#Predict Output
-predicted= model.predict(x_test)
+import numpy as np
+from sklearn import preprocessing, cross_validation, neighbors, svm
+import pandas as pd
+
+df = pd.read_csv('breast-cancer-wisconsin.data.txt')
+df.replace('?',-99999, inplace=True)
+df.drop(['id'], 1, inplace=True)
+
+X = np.array(df.drop(['class'], 1))
+y = np.array(df['class'])
+
+X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, y, test_size=0.2)
+
+clf = svm.SVC()
+
+clf.fit(X_train, y_train)
+confidence = clf.score(X_test, y_test)
+print(confidence)
+
+example_measures = np.array([[4,2,1,1,1,2,3,2,1]])
+example_measures = example_measures.reshape(len(example_measures), -1)
+prediction = clf.predict(example_measures)
+print(prediction)
