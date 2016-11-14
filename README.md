@@ -10,6 +10,10 @@ List of algorithms I know:
 
     Support Vector Machines 
     
+    **Clustering**
+    
+    K-Means
+    
 List of algorithms I plan to know:
       
     Naive Bayes
