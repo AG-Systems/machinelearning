@@ -10,9 +10,7 @@ List of algorithms I know:
 
     Support Vector Machines 
     
-    **Clustering**
-    
-    K-Means
+    K-Means 
     
 List of algorithms I plan to know:
       
@@ -22,8 +20,8 @@ List of algorithms I plan to know:
     
     Neural Networks
     
-    K-Means
-    
     Markov Chain
     
     Random Forests
+
+    Mean shift
