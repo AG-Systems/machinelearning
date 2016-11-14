@@ -10,6 +10,13 @@ Pros: Accuracy, uses subset of training points
 Cons: Speed
 
 
+**Kernels**
+
+Used when your data is all clumped togeather (used for SVM). It adds another dimmension to the data points to filter them out.
+
+It finds the similarities in points
+
+
 **Accuracy vs Confidence**
 
 Accuracy = Did we get the classfication right?
