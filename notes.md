@@ -19,9 +19,9 @@ It finds the similarities in points
 
 **Clustering**
 
-K-Means = Flat form.
+K-Means = Flat clustering. Yes or no style. (Is this person a buyer or not a buyer)
 
-Mean-Shift = Hierarchical
+Mean-Shift = Hierarchical clustering.  (Is this person a huge buyer, maybe he shops a little bit, or he does not shop at all)
 
 
 
