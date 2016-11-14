@@ -17,6 +17,14 @@ Used when your data is all clumped togeather (used for SVM). It adds another dim
 It finds the similarities in points
 
 
+**Clustering**
+
+K-Means = Flat form.
+
+Mean-Shift = Hierarchical
+
+
+
 **Accuracy vs Confidence**
 
 Accuracy = Did we get the classfication right?
