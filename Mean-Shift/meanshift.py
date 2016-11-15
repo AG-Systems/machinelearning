@@ -91,3 +91,7 @@ for i in range(n_clusters_):
     survival_rates[i] = survival_rate
     
 print(survival_rates)
+
+#print(original_df[ (original_df['cluster_group']==1) ])
+# print(original_df[ (original_df['cluster_group']==0) ].describe())
+# print(original_df[ (original_df['cluster_group']==2) ].describe())
