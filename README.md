@@ -12,6 +12,8 @@ List of algorithms I know:
     
     K-Means 
     
+    Mean shift
+    
 List of algorithms I plan to know:
       
     Naive Bayes
@@ -23,5 +25,3 @@ List of algorithms I plan to know:
     Markov Chain
     
     Random Forests
-
-    Mean shift
