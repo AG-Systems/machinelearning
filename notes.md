@@ -23,7 +23,9 @@ K-Means = Flat clustering. Yes or no style. (Is this person a buyer or not a buy
 
 Mean-Shift = Hierarchical clustering.  (Is this person a huge buyer, maybe he shops a little bit, or he does not shop at all)
 
+K-Means makes 2 broad assumptions: number of clusters already known, and clusters shape. Very sensitive to initiazlation. It makes it fast however.
 
+Mean-Shift = Does not assume anything about number of clusters. Not sensitive to outliners.  Sensitive to selection of bandwidth however. 
 
 **Accuracy vs Confidence**
 
