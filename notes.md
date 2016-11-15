@@ -31,4 +31,8 @@ Mean-Shift = Does not assume anything about number of clusters. Not sensitive to
 
 Accuracy = Did we get the classfication right?
 
+How close are you to the actual value
+
 Confidence = Comes from the classifer and says " we have only have 60% of the votes and our confidence is only 60%"
+
+How sure you are your program is working
