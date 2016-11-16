@@ -16,9 +16,10 @@ List of algorithms I know:
 
     Decision Trees
     
+    Naive Bayes
+    
 List of algorithms I plan to know:
       
-    Naive Bayes
     
     Neural Networks
     
