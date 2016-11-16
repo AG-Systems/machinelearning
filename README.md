@@ -23,6 +23,4 @@ List of algorithms I plan to know:
     
     Neural Networks
     
-    Markov Chain
-    
     Random Forests
