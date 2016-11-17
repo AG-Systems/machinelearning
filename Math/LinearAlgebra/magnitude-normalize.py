@@ -32,7 +32,7 @@ class Vector(object):
     def normalized(self):
         try:
             magnitude = self.magnitude()
-            return self.times_scalar(1./magnitude)
+            return self.times_scalar(1.0/magnitude)
         except ZeroDivisionError:
             raise Exception('Cannot normalize the zero vector')
 
