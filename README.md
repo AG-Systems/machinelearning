@@ -18,20 +18,18 @@ List of algorithms I know:
     
     Naive Bayes
     
-List of algorithms I plan to know:
-      
-    
     Neural Networks
+    
+List of algorithms I plan to know:
     
     Random Forests
 
 Other plans:
 
-
-     Learn linear alg
+     Learn linear algebra (LOL I KNOW RIGHT)
      
      Learn stats
      
-     Javascript machine learning maybe
+     Combine tensorflow & django (Harder then I thought)
      
-     Combine tensorflow & django
+     Rails & Tensorflow (The dream, maybe one day)
