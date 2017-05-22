@@ -30,6 +30,4 @@ Other plans:
      
      Learn stats
      
-     Combine tensorflow & django (Harder then I thought)
-     
-     Rails & Tensorflow (The dream, maybe one day)
+     Rails & Tensorflow (The dream, maybe one day) *Done, easier then I thought
